@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fikri-taufiqurrahman/portfolio/static/css/main.aa53c15e.css",
+    "main.js": "/fikri-taufiqurrahman/portfolio/static/js/main.a9b3f533.js",
+    "static/media/c4.png": "/fikri-taufiqurrahman/portfolio/static/media/c4.9cebb68c304b76a73157.png",
+    "static/media/c3.png": "/fikri-taufiqurrahman/portfolio/static/media/c3.a750bb44bba50cd09fb1.png",
+    "static/media/c6.png": "/fikri-taufiqurrahman/portfolio/static/media/c6.4a69dea5ca37f6d2495e.png",
+    "static/media/c1.png": "/fikri-taufiqurrahman/portfolio/static/media/c1.2fbfc859c37682fc527f.png",
+    "static/media/c2.png": "/fikri-taufiqurrahman/portfolio/static/media/c2.94aa9e09105ce1fd5319.png",
+    "static/media/me-about.jpg": "/fikri-taufiqurrahman/portfolio/static/media/me-about.af2046c088e4cff2d903.jpg",
+    "static/media/c5.png": "/fikri-taufiqurrahman/portfolio/static/media/c5.812112a6ba14dd32a162.png",
+    "static/media/me.png": "/fikri-taufiqurrahman/portfolio/static/media/me.96fe79664ed9e871bb6f.png",
+    "static/media/cv.pdf": "/fikri-taufiqurrahman/portfolio/static/media/cv.7911c6fd510af22d5086.pdf",
+    "index.html": "/fikri-taufiqurrahman/portfolio/index.html",
+    "main.aa53c15e.css.map": "/fikri-taufiqurrahman/portfolio/static/css/main.aa53c15e.css.map",
+    "main.a9b3f533.js.map": "/fikri-taufiqurrahman/portfolio/static/js/main.a9b3f533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa53c15e.css",
+    "static/js/main.a9b3f533.js"
+  ]
+}
